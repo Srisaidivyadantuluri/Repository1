@@ -1,0 +1,23 @@
+.table,tr,th,td{
+    border: 2px solid rgb(9, 9, 9);
+    
+}
+
+.divya{
+    background-color: aquamarine;
+}
+.divya1{
+    background-color: rgb(235, 158, 229);
+}
+.divya2{
+    background-color: rgb(239, 167, 228);
+}
+.divya3{
+    background-color: rgb(233, 149, 207);
+}
+.divya4{
+    background-color: rgb(233, 140, 207);
+}
+.divya5{
+    background-color: rgb(255, 196, 237);
+}
